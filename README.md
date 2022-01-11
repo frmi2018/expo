@@ -1,8 +1,9 @@
-<img src="https://github.com/frmi2018/portfolio/blob/main/public/media/logos/expo.png"  width="100" height=auto>
+<img src="https://github.com/frmi2018/frmi2018/blob/main/assets/logos/expo.png"  width="100" height=auto>
 
-<br/>
-<br/>
-
-### Documentations :
+## Documentations :
 
 [Expo](https://docs.expo.dev/)
+
+## Projets :
+
+Clone de l'application Airbnb (quelques fonctions) : https://github.com/frmi2018/expo/tree/main/airbnb
